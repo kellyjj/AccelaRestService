@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MDSIface>
+  <Hansen>
+    <!--Accela Instance Information and rest service urls and end points--> 
+    <AccelaRestServiceAuthURL>https://auth.accela.com</AccelaRestServiceAuthURL>
+    <AccelaRestServiceAPIBaseURL>https://apis.accela.com</AccelaRestServiceAPIBaseURL>
+    <AccelaRestServiceGetRecordsEndPoint>/v4/records/</AccelaRestServiceGetRecordsEndPoint>
+    <AccelaRestServiceGetUpdateRecordEndPoint>v4/records/id</AccelaRestServiceGetUpdateRecordEndPoint>
+    <AccelaRestServiceUpdateCustomFormsEndPoint>v4/records/recordId/customForms</AccelaRestServiceUpdateCustomFormsEndPoint>
+    <AccelaRestServiceCreateRecordEndPoint>v4/records/?fields=id,customId</AccelaRestServiceCreateRecordEndPoint>
+    <AccelaRestServiceGetSingleRecordEndPoint>/v4/records/?customId=</AccelaRestServiceGetSingleRecordEndPoint>
+    <AccelaRestServiceCreateInspection>v4/inspections/schedule</AccelaRestServiceCreateInspection>
+    <AccelaRestServiceContactCustomForms>v4/records/recordId/contacts/contactId/customForms</AccelaRestServiceContactCustomForms>
+    <AccelaRestServiceSchedulePendingInsp>v4/inspections/id/schedule</AccelaRestServiceSchedulePendingInsp>
+    <AccelaRestServiceSResultInsp>v4/inspections/id/result</AccelaRestServiceSResultInsp>
+    <AccelaRestServiceSCreateUPdateRecordPeople>v4/records/recordId/contacts</AccelaRestServiceSCreateUPdateRecordPeople>
+    <AccelaRestServiceSCreateRecordFees>v4/records/recordId/fees/</AccelaRestServiceSCreateRecordFees>
+    <AccelaRestServiceSCreateRecordInvoiceFees>v4/records/recordId/invoices</AccelaRestServiceSCreateRecordInvoiceFees>
+    <AccelaRestServiceSRecordAddress>/v4/records/recordId/addresses</AccelaRestServiceSRecordAddress>
+    <AccelaRestServiceSGetFeeScedsApType>v4/settings/records/types/ApType/fees/schedules</AccelaRestServiceSGetFeeScedsApType>
+    <AccelaRestServiceSCreateRelatedRecords>v4/records/recordId/related</AccelaRestServiceSCreateRelatedRecords>
+    <AccelaRestServiceSGetAllTasks>v4/records/recordId/workflowTasks</AccelaRestServiceSGetAllTasks>
+    <AccelaRestServiceSUpdateTask>v4/records/recordId/workflowTasks/id</AccelaRestServiceSUpdateTask>
+    <AccelaDatabaseFilePath>c:/temp/FileAttachments</AccelaDatabaseFilePath>
+    <AccelaDatabaseFilePathSQL>select DocumentContents,DocFileName from MT_DataConversion.dbo.Document </AccelaDatabaseFilePathSQL>
+    <AccelaDatabaseFilePathSQL2>select FileName,FileContents from dbo.Attachment </AccelaDatabaseFilePathSQL2>
+    <Accela_AuthEndPoint>oauth2/token</Accela_AuthEndPoint>    
+    <AccelaDatabaseFilePathContentCol>DocumentContents</AccelaDatabaseFilePathContentCol>
+    <AccelaDatabaseFilePathFileName>DocFileName</AccelaDatabaseFilePathFileName>
+    <AccelaDatabaseFilePathContentCol2>FileContents</AccelaDatabaseFilePathContentCol2>
+    <AccelaDatabaseFilePathFileName2>FileName</AccelaDatabaseFilePathFileName2>
+    <!--Accela User name and client id for rest service.-->
+    <AccelaServrovider>kjsb</AccelaServrovider>
+    <Accela_UserName>admin</Accela_UserName>
+    <Accela_Password>SFhthgfb!OkhjmkgjX32HG!FB</Accela_Password>
+    <Accela_clientID>638742037578940732</Accela_clientID>
+    <Accela_clientSecret>bfcab89c6e5b4372b4bb4cd78842635f</Accela_clientSecret>
+    <Accela_agencyname>estop</Accela_agencyname>
+    <Accela_agencyEnviroment>nonprod1</Accela_agencyEnviroment>
+    <Accela_granttype>password</Accela_granttype>
+    <!--everything we want access to  -->
+    <Accela_scope>inspections records addresses conditions contacts documents inspectors invoices owners parcels payments professionals</Accela_scope>
+    <!--Everything misc needed for iface-->
+    <Accela_LogPath>C:/temp/ips2sl_log.xml</Accela_LogPath>
+    <NumberOfThreads>6</NumberOfThreads>
+    <Stop_File>C:/temp/stop.txt</Stop_File>
+    <PaymentJsonFile>C:/temp/payments.json</PaymentJsonFile>
+    <CacheTimeout>10</CacheTimeout>
+    <DBConnectionString>Server=100.89.29.48;Database=MT_DataConversion;User Id=sa;Password=grayquarter;</DBConnectionString>
+    <SessionTimeOut>2</SessionTimeOut>
+    <SleepTime>10</SleepTime>
+    <TestBatchSize>1</TestBatchSize>    
+    <TestBatch>21</TestBatch>    
+    <SingleRecord>12</SingleRecord>    
+    <SingleRecordNumber>3122</SingleRecordNumber>    
+    <GoLiveDate>2025-04-10</GoLiveDate>    
+    <GetAttachments>21</GetAttachments>
+    <BaseSql>select  * from </BaseSql>
+    <BaseSqlwhere>where LicenseNumber in (5608903) </BaseSqlwhere>
+  </Hansen>
+</MDSIface>
+
+

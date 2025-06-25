@@ -1,0 +1,378 @@
+[
+    {
+        "R1_FEE_CODE": "ABCD",
+        "R1_GF_COD": "BE_WI_FINGER"
+    },
+    {
+        "R1_FEE_CODE": "ABCD",
+        "R1_GF_COD": "BEER_FINGER"
+    },
+    {
+        "R1_FEE_CODE": "ABCD",
+        "R1_GF_COD": "BEER_LIC_FEE"
+    },
+    {
+        "R1_FEE_CODE": "ABCD",
+        "R1_GF_COD": "BEER_PEN_1"
+    },
+    {
+        "R1_FEE_CODE": "ABCD",
+        "R1_GF_COD": "BEER_PEN_2"
+    },
+    {
+        "R1_FEE_CODE": "ABCD",
+        "R1_GF_COD": "BEER_PEN_3"
+    },
+    {
+        "R1_FEE_CODE": "ABCD",
+        "R1_GF_COD": "BEER_PROC"
+    },
+    {
+        "R1_FEE_CODE": "ABCD",
+        "R1_GF_COD": "BEER_WINE_PR"
+    },
+    {
+        "R1_FEE_CODE": "ABCD",
+        "R1_GF_COD": "BEER_WINE_UP"
+    },
+    {
+        "R1_FEE_CODE": "ABCD",
+        "R1_GF_COD": "BEWI_LIC_BE"
+    },
+    {
+        "R1_FEE_CODE": "ABCD",
+        "R1_GF_COD": "BEWI_LIC_WI"
+    },
+    {
+        "R1_FEE_CODE": "ABCD",
+        "R1_GF_COD": "BEWI_PEN_1"
+    },
+    {
+        "R1_FEE_CODE": "ABCD",
+        "R1_GF_COD": "BEWI_PEN_2"
+    },
+    {
+        "R1_FEE_CODE": "ABCD",
+        "R1_GF_COD": "BEWI_PEN_3"
+    },
+    {
+        "R1_FEE_CODE": "ABCD",
+        "R1_GF_COD": "WINE_FINGER"
+    },
+    {
+        "R1_FEE_CODE": "ABCD",
+        "R1_GF_COD": "WINE_LIC_FEE"
+    },
+    {
+        "R1_FEE_CODE": "ABCD",
+        "R1_GF_COD": "WINE_PEN_1"
+    },
+    {
+        "R1_FEE_CODE": "ABCD",
+        "R1_GF_COD": "WINE_PEN_2"
+    },
+    {
+        "R1_FEE_CODE": "ABCD",
+        "R1_GF_COD": "WINE_PEN_3"
+    },
+    {
+        "R1_FEE_CODE": "ABCD",
+        "R1_GF_COD": "WINE_PROC"
+    },
+    {
+        "R1_FEE_CODE": "BIT",
+        "R1_GF_COD": "ALT_VAP_RET"
+    },
+    {
+        "R1_FEE_CODE": "BIT",
+        "R1_GF_COD": "TOB_PROD_RET"
+    },
+    {
+        "R1_FEE_CODE": "BIT",
+        "R1_GF_COD": "TOB_PROD_REV"
+    },
+    {
+        "R1_FEE_CODE": "BIT",
+        "R1_GF_COD": "TOB_PROD_SUB"
+    },
+    {
+        "R1_FEE_CODE": "BIT",
+        "R1_GF_COD": "TOB_PROD_VEN"
+    },
+    {
+        "R1_FEE_CODE": "BIT",
+        "R1_GF_COD": "TOB_PROD_WHO"
+    },
+    {
+        "R1_FEE_CODE": "EH",
+        "R1_GF_COD": "FOOD_EST_LAR"
+    },
+    {
+        "R1_FEE_CODE": "EH",
+        "R1_GF_COD": "FOOD_EST_SMA"
+    },
+    {
+        "R1_FEE_CODE": "EH",
+        "R1_GF_COD": "FOOD_ESTLATE"
+    },
+    {
+        "R1_FEE_CODE": "LOT",
+        "R1_GF_COD": "LOT_SWAG_FEE"
+    },
+    {
+        "R1_FEE_CODE": "LOT",
+        "R1_GF_COD": "LOT_TRAD_FEE"
+    },
+    {
+        "R1_FEE_CODE": "NUR",
+        "R1_GF_COD": "NURS_150000"
+    },
+    {
+        "R1_FEE_CODE": "NUR",
+        "R1_GF_COD": "NURS_250000"
+    },
+    {
+        "R1_FEE_CODE": "NUR",
+        "R1_GF_COD": "NURS_250000_"
+    },
+    {
+        "R1_FEE_CODE": "NUR",
+        "R1_GF_COD": "NURS_5000"
+    },
+    {
+        "R1_FEE_CODE": "NUR",
+        "R1_GF_COD": "NURS_75000"
+    },
+    {
+        "R1_FEE_CODE": "NUR",
+        "R1_GF_COD": "NURS_APP_FEE"
+    },
+    {
+        "R1_FEE_CODE": "NUR",
+        "R1_GF_COD": "NURS_LANDSC"
+    },
+    {
+        "R1_FEE_CODE": "NUR",
+        "R1_GF_COD": "NURS_LATE_FE"
+    },
+    {
+        "R1_FEE_CODE": "NUR",
+        "R1_GF_COD": "NURS_LIC_FEE"
+    },
+    {
+        "R1_FEE_CODE": "NUR",
+        "R1_GF_COD": "NURS_SOD_FAR"
+    },
+    {
+        "R1_FEE_CODE": "UST",
+        "R1_GF_COD": "T1_APP"
+    },
+    {
+        "R1_FEE_CODE": "UST",
+        "R1_GF_COD": "T1_BACKFEE_1"
+    },
+    {
+        "R1_FEE_CODE": "UST",
+        "R1_GF_COD": "T1_BACKFEE_2"
+    },
+    {
+        "R1_FEE_CODE": "UST",
+        "R1_GF_COD": "T1_BACKFEE_3"
+    },
+    {
+        "R1_FEE_CODE": "UST",
+        "R1_GF_COD": "T1_LIC"
+    },
+    {
+        "R1_FEE_CODE": "UST",
+        "R1_GF_COD": "T2_APP"
+    },
+    {
+        "R1_FEE_CODE": "UST",
+        "R1_GF_COD": "T2_BACKFEE_1"
+    },
+    {
+        "R1_FEE_CODE": "UST",
+        "R1_GF_COD": "T2_BACKFEE_2"
+    },
+    {
+        "R1_FEE_CODE": "UST",
+        "R1_GF_COD": "T2_BACKFEE_3"
+    },
+    {
+        "R1_FEE_CODE": "UST",
+        "R1_GF_COD": "T2_LIC"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "PA_LATE_REN"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "PA_LIC"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "PA_TEST"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "PB_LATE_REN"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "PB_LIC"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "PB_TEST"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "PC_LATE_REN"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "PC_LIC"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "PC_TEST"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "PD_LATE_REN"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "PD_LIC"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "PD_TEST"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "S1_LATE_REN"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "S1_LIC"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "S1_TEST"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "S2_LATE_REN"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "S2_LIC"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "S2_TEST"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "S3_LATE_REN"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "S3_LIC"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "S3_TEST"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "S4_LATE_REN"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "S4_LIC"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "S4_TEST"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "S5_LATE_REN"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "S5_LIC"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "S5_TEST"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "SA_LATE_REN"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "SA_LIC"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "SA_TEST"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "SB_LATE_REN"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "SB_LIC"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "SB_TEST"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "SC_LATE_REN"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "SC_LIC"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "SC_TEST"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "SD_LATE_REN"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "SD_LIC"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "SD_TEST"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "SE_LATE_REN"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "SE_LIC"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "SE_TEST"
+    },
+    {
+        "R1_FEE_CODE": "WM",
+        "R1_GF_COD": "TEST"
+    }
+]

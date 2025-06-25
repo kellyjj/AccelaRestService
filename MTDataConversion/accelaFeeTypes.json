@@ -1,0 +1,1073 @@
+[
+    
+    {
+        "Accela Fee Code": "No Fee Configured",
+        "FeeId": -2,
+        "Description": "PAYMENT REVERSAL (NSF, BCOR, DOC REV)"
+    },
+    {
+        "Accela Fee Code": "No Fee Configured",
+        "FeeId": -1,
+        "Description": "REFUND"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 1,
+        "Description": "TOBACCO PRODUCTS RETAILER"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 2,
+        "Description": "TOBACCO PRODUCTS RETAILER (v)"
+    },
+    {
+        "Accela Fee Code": "TOB_PROD_WHO",
+        "FeeId": 3,
+        "Description": "TOBACCO PRODUCTS WHOLESALER"
+    },
+    {
+        "Accela Fee Code": "TOB_PROD_SUB",
+        "FeeId": 4,
+        "Description": "TOBACCO PRODUCTS SUBJOBBER"
+    },
+    {
+        "Accela Fee Code": "TOB_PROD_VEN",
+        "FeeId": 5,
+        "Description": "TOBACCO PRODUCTS VENDOR"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 6,
+        "Description": "RETAIL FOOD ESTABLISHMENT -- LARGE"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 7,
+        "Description": "RETAIL FOOD ESTABLISHMENT -- SMALL"
+    },
+    {
+        "Accela Fee Code": "BEER_LIC_FEE",
+        "FeeId": 8,
+        "Description": "OFF-PREMISES BEER"
+    },
+    {
+        "Accela Fee Code": "WINE_LIC_FEE",
+        "FeeId": 9,
+        "Description": "OFF-PREMISES WINE"
+    },
+    {
+        "Accela Fee Code": "BEWI_LIC_BE\u00a0",
+        "FeeId": 10,
+        "Description": "OFF-PREMISES COMBINED (BEER PORTION)"
+    },
+    {
+        "Accela Fee Code": "BEWI_LIC_WI",
+        "FeeId": 11,
+        "Description": "OFF-PREMISES COMBINED (WINE PORTION)"
+    },
+    {
+        "Accela Fee Code": "PA_LIC",
+        "FeeId": 12,
+        "Description": "METER - RETAIL, MAX DELIVERY <= 20 GPM RENEWAL"
+    },
+    {
+        "Accela Fee Code": "PB_LIC",
+        "FeeId": 13,
+        "Description": "METER - MAX DELIVERY >20 GPM AND <= 130 GPM RENEWAL"
+    },
+    {
+        "Accela Fee Code": "PC_LIC",
+        "FeeId": 14,
+        "Description": "METER - MAX DELIVERY > 130 GPM RENEWAL"
+    },
+    {
+        "Accela Fee Code": "PD_LIC",
+        "FeeId": 15,
+        "Description": "METER - LIQUEFIED PETRO (PROPANE) RENEWAL"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 16,
+        "Description": "FARM SCALES, 0 to 499 LBs"
+    },
+    {
+        "Accela Fee Code": "S2_LIC",
+        "FeeId": 17,
+        "Description": "FARM SCALES, 500 to 1,999 LBs"
+    },
+    {
+        "Accela Fee Code": "S3_LIC",
+        "FeeId": 18,
+        "Description": "FARM SCALES, 2,000 to 7,999 LBs"
+    },
+    {
+        "Accela Fee Code": "S4_LIC",
+        "FeeId": 19,
+        "Description": "FARM SCALES, 8,000 to 60,000 LBs"
+    },
+    {
+        "Accela Fee Code": "S5_LIC",
+        "FeeId": 20,
+        "Description": "FARM SCALES, > 60,000 LBs"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 21,
+        "Description": "SCALE - 0 TO 499 LBS RENEWAL"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 22,
+        "Description": "SCALE - 500 TO 1,999 LBS RENEWAL"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 23,
+        "Description": "SCALE - 2,000 TO 7,999 LBS RENEWAL"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 24,
+        "Description": "SCALE - 8,000 TO 60,000 LBS RENEWAL"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 25,
+        "Description": "SCALE - OVER 60,000 LBS RENEWAL"
+    },
+    {
+        "Accela Fee Code": "T1_LIC",
+        "FeeId": 26,
+        "Description": "UNDERGROUND STORAGE TANKS - TANKS <= 1,100 GALLONS RENEWAL"
+    },
+    {
+        "Accela Fee Code": "T2_LIC",
+        "FeeId": 27,
+        "Description": "UNDERGROUND STORAGE TANKS - TANKS > 1,100 GALLONS RENEWAL"
+    },
+    {
+        "Accela Fee Code": "FOOD_ESTLATE",
+        "FeeId": 28,
+        "Description": "RETAIL FOOD ESTABLISHMENT - LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "FOOD_ESTLATE",
+        "FeeId": 29,
+        "Description": "RETAIL FOOD ESTABLISHMENT - LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "BEER_PEN_1",
+        "FeeId": 30,
+        "Description": "OFF-PREMISES LIQUOR PENALTY"
+    },
+    {
+        "Accela Fee Code": "BEWI_PEN_1",
+        "FeeId": 31,
+        "Description": "OFF-PREMISES COMBINED BEER\/WINE PENALTY"
+    },
+    {
+        "Accela Fee Code": "\nWINE_PEN_1",
+        "FeeId": 32,
+        "Description": "OFF-PREMISES LIQUOR PENALTY"
+    },
+    {
+        "Accela Fee Code": "BEER_PEN_2",
+        "FeeId": 45,
+        "Description": "OFF-PREMISES LIQUOR PENALTY"
+    },
+    {
+        "Accela Fee Code": "BEWI_PEN_2\u00a0",
+        "FeeId": 46,
+        "Description": "OFF-PREMISES COMBINED BEER\/WINE PENALTY"
+    },
+    {
+        "Accela Fee Code": "WINE_PEN_2\u00a0",
+        "FeeId": 47,
+        "Description": "OFF-PREMISES LIQUOR PENALTY"
+    },
+    {
+        "Accela Fee Code": "BEER_PEN_3\u00a0",
+        "FeeId": 60,
+        "Description": "OFF-PREMISES LIQUOR PENALTY"
+    },
+    {
+        "Accela Fee Code": "BEWI_PEN_3",
+        "FeeId": 61,
+        "Description": "OFF-PREMISES COMBINED BEER\/WINE PENALTY"
+    },
+    {
+        "Accela Fee Code": "WINE_PEN_3",
+        "FeeId": 62,
+        "Description": "OFF-PREMISES LIQUOR PENALTY"
+    },
+    {
+        "Accela Fee Code": "PA_LATE_REN",
+        "FeeId": 63,
+        "Description": "METER - RETAIL, MAX DELIVERY <= 20 GPM LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "PB_LATE_REN\u00a0",
+        "FeeId": 64,
+        "Description": "METER - MAX DELIVERY >20 GPM & <= 130 GPM LATE RENEWAL PNLTY"
+    },
+    {
+        "Accela Fee Code": "PC_LATE_REN\u00a0",
+        "FeeId": 65,
+        "Description": "METER - MAX DELIVERY > 130 GPM LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "PD_LATE_REN",
+        "FeeId": 66,
+        "Description": "METER - LIQUEFIED PETRO (PROPANE) LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 68,
+        "Description": "SCALE - 0 TO 499 LBS LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 69,
+        "Description": "SCALE - 500 TO 1,999 LBS LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 70,
+        "Description": "SCALE - 2,000 TO 7,999 LBS LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 71,
+        "Description": "SCALE - 8,000 TO 60,000 LBS LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 72,
+        "Description": "SCALE - OVER 60,000 LBS LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "SA_LATE_REN",
+        "FeeId": 78,
+        "Description": "FARM SCALES, 0 to 499 LBs LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "S2_LATE_REN",
+        "FeeId": 79,
+        "Description": "FARM SCALES, 500 to 1,999 LBs LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "S3_LATE_REN",
+        "FeeId": 80,
+        "Description": "FARM SCALES, 2,000 to 7,999 LBs LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "S4_LATE_REN",
+        "FeeId": 81,
+        "Description": "FARM SCALES, 8,000 to 60,000 LBs LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "S5_LATE_REN",
+        "FeeId": 82,
+        "Description": "FARM SCALES, > 60,000 LBs LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 83,
+        "Description": "NURSERY LICENSE"
+    },
+    {
+        "Accela Fee Code": "NURS_LATE_FE",
+        "FeeId": 84,
+        "Description": "NURSERY - LATE FEE"
+    },
+    {
+        "Accela Fee Code": "PA_LIC",
+        "FeeId": 88,
+        "Description": "METER - RETAIL, MAX DELIVERY <= 20 GPM RENEWAL"
+    },
+    {
+        "Accela Fee Code": "PB_LIC",
+        "FeeId": 89,
+        "Description": "METER - MAX DELIVERY >20 GPM AND <= 130 GPM RENEWAL"
+    },
+    {
+        "Accela Fee Code": "PC_LIC",
+        "FeeId": 90,
+        "Description": "METER - MAX DELIVERY > 130 GPM RENEWAL"
+    },
+    {
+        "Accela Fee Code": "PD_LIC",
+        "FeeId": 91,
+        "Description": "METER - LIQUEFIED PETRO (PROPANE) RENEWAL"
+    },
+    {
+        "Accela Fee Code": "SA_LIC",
+        "FeeId": 92,
+        "Description": "FARM SCALES, 0 to 499 LBs"
+    },
+    {
+        "Accela Fee Code": "S2_LIC",
+        "FeeId": 93,
+        "Description": "FARM SCALES, 500 to 1,999 LBs"
+    },
+    {
+        "Accela Fee Code": "S3_LIC",
+        "FeeId": 94,
+        "Description": "FARM SCALES, 2,000 to 7,999 LBs"
+    },
+    {
+        "Accela Fee Code": "S4_LIC",
+        "FeeId": 95,
+        "Description": "FARM SCALES, 8,000 to 60,000 LBs"
+    },
+    {
+        "Accela Fee Code": "S5_LIC",
+        "FeeId": 96,
+        "Description": "FARM SCALES, > 60,000 LBs"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 97,
+        "Description": "SCALE - 0 TO 499 LBS RENEWAL"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 98,
+        "Description": "SCALE - 500 TO 1,999 LBS RENEWAL"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 99,
+        "Description": "SCALE - 2,000 TO 7,999 LBS RENEWAL"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 100,
+        "Description": "SCALE - 8,000 TO 60,000 LBS RENEWAL"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 101,
+        "Description": "SCALE - OVER 60,000 LBS RENEWAL"
+    },
+    {
+        "Accela Fee Code": "PA_LATE_REN",
+        "FeeId": 102,
+        "Description": "METER - RETAIL, MAX DELIVERY <= 20 GPM LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "PB_LATE_REN\u00a0",
+        "FeeId": 103,
+        "Description": "METER - MAX DELIVERY >20 GPM & <= 130 GPM LATE RENEWAL PNLTY"
+    },
+    {
+        "Accela Fee Code": "PC_LATE_REN\u00a0",
+        "FeeId": 104,
+        "Description": "METER - MAX DELIVERY > 130 GPM LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "PD_LATE_REN",
+        "FeeId": 105,
+        "Description": "METER - LIQUEFIED PETRO (PROPANE) LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 106,
+        "Description": "SCALE - 0 TO 499 LBS LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 107,
+        "Description": "SCALE - 500 TO 1,999 LBS LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 108,
+        "Description": "SCALE - 2,000 TO 7,999 LBS LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 109,
+        "Description": "SCALE - 8,000 TO 60,000 LBS LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 110,
+        "Description": "SCALE - OVER 60,000 LBS LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 113,
+        "Description": "NURSERY LICENSE (BEFORE 10\/2007)"
+    },
+    {
+        "Accela Fee Code": "NURS_LATE_FE",
+        "FeeId": 117,
+        "Description": "NURSERY - LATE FEE (BEFORE 10\/2007)"
+    },
+    {
+        "Accela Fee Code": "SA_LATE_REN",
+        "FeeId": 118,
+        "Description": "FARM SCALES, 0 to 499 LBs LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "S2_LATE_REN",
+        "FeeId": 119,
+        "Description": "FARM SCALES, 500 to 1,999 LBs LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "S3_LATE_REN",
+        "FeeId": 120,
+        "Description": "FARM SCALES, 2,000 to 7,999 LBs LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "S4_LATE_REN",
+        "FeeId": 121,
+        "Description": "FARM SCALES, 8,000 to 60,000 LBs LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "SE_LATE_REN",
+        "FeeId": 122,
+        "Description": "FARM SCALES, > 60,000 LBs LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "NURS_APP_FEE",
+        "FeeId": 124,
+        "Description": "NURSERY - APPLICATION FEE"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 125,
+        "Description": "OFF-PREMISES LIQUOR PROCESSING FEE"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 126,
+        "Description": "OFF-PREMISES LIQUOR PROCESSING FEE"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 127,
+        "Description": "OFF-PREMISES LIQUOR PROCESSING FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_APP_FEE",
+        "FeeId": 128,
+        "Description": "NURSERY APPLICATION FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_APP_FEE",
+        "FeeId": 129,
+        "Description": "NURSERY APPLICATION FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_APP_FEE",
+        "FeeId": 130,
+        "Description": "NURSERY APPLICATION FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_APP_FEE",
+        "FeeId": 131,
+        "Description": "NURSERY APPLICATION FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_LATE_FE",
+        "FeeId": 132,
+        "Description": "NURSERY LATE FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_LATE_FE",
+        "FeeId": 133,
+        "Description": "NURSERY LATE FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_LATE_FE",
+        "FeeId": 134,
+        "Description": "NURSERY LATE FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_LATE_FE",
+        "FeeId": 135,
+        "Description": "NURSERY LATE FEE"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 136,
+        "Description": "NURSERY LICENSE FEE (SALES $1000 - $3000)"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 137,
+        "Description": "NURSERY LICENSE FEE (SALES $3000 - $10,000)"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 138,
+        "Description": "NURSERY LICENSE FEE (SALES > $10,000)"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 139,
+        "Description": "NURSERY LICENSE FEE (SALES < $1000)"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 140,
+        "Description": "SECONDARY LOCATION (SALES $1000 - $3000)"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 141,
+        "Description": "SECONDARY LOCATION (SALES $3000 - $10,000)"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 142,
+        "Description": "SECONDARY LOCATION (SALES < $1000)"
+    },
+    {
+        "Accela Fee Code": "FOOD_EST_LAR",
+        "FeeId": 143,
+        "Description": "RETAIL FOOD ESTABLISHMENT -- LARGE"
+    },
+    {
+        "Accela Fee Code": "FOOD_EST_SMA",
+        "FeeId": 144,
+        "Description": "RETAIL FOOD ESTABLISHMENT -- SMALL"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 145,
+        "Description": "OFF-PREMISES LIQUOR FINGERPRINT FEE"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 146,
+        "Description": "OFF-PREMISES LIQUOR FINGERPRINT FEE"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 147,
+        "Description": "OFF-PREMISES LIQUOR FINGERPRINT FEE"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 154,
+        "Description": "NURSERY SECONDARY LOCATION (SALES $1000 - $5000) - NO FEE"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 155,
+        "Description": "NURSERY SECONDARY LOCATION (SALES > $5000) - NO FEE"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 156,
+        "Description": "NURSERY PRIMARY LOCATION (SALES > $5000)"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 157,
+        "Description": "NURSERY PRIMARY LOCATION (SALES $1000 - $5000)"
+    },
+    {
+        "Accela Fee Code": "NURS_APP_FEE",
+        "FeeId": 158,
+        "Description": "NURSERY APPLICATION FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_APP_FEE",
+        "FeeId": 159,
+        "Description": "NURSERY APPLICATION FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_LATE_FE",
+        "FeeId": 160,
+        "Description": "NURSERY LATE FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_LATE_FE",
+        "FeeId": 161,
+        "Description": "NURSERY LATE FEE"
+    },
+    {
+        "Accela Fee Code": "T1_BACKFEE_1",
+        "FeeId": 162,
+        "Description": "UNDERGROUND STORAGE TANKS - TANKS <= 1,100 GAL BACK FEE-1 YR"
+    },
+    {
+        "Accela Fee Code": "T2_BACKFEE_1",
+        "FeeId": 163,
+        "Description": "UNDERGROUND STORAGE TANKS - TANKS > 1,100 GAL BACK FEE-1 YR"
+    },
+    {
+        "Accela Fee Code": "T1_BACKFEE_2",
+        "FeeId": 164,
+        "Description": "UNDERGROUND STORAGE TANKS - TANKS <= 1,100 GAL BACK FEE-2 YR"
+    },
+    {
+        "Accela Fee Code": "T2_BACKFEE_2",
+        "FeeId": 165,
+        "Description": "UNDERGROUND STORAGE TANKS - TANKS > 1,100 GAL BACK FEE-2 YR"
+    },
+    {
+        "Accela Fee Code": "T1_BACKFEE_3",
+        "FeeId": 166,
+        "Description": "UNDERGROUND STORAGE TANKS - TANKS <= 1,100 GAL BACK FEE-3 YR"
+    },
+    {
+        "Accela Fee Code": "T2_BACKFEE_3",
+        "FeeId": 167,
+        "Description": "UNDERGROUND STORAGE TANKS - TANKS > 1,100 GAL BACK FEE-3 YR"
+    },
+    {
+        "Accela Fee Code": "No Fee Configured",
+        "FeeId": 168,
+        "Description": "INSPECTION TIME (PER HALF HOUR)"
+    },
+    {
+        "Accela Fee Code": "No Fee Configured",
+        "FeeId": 169,
+        "Description": "INSPECTION MILEAGE (PER MILE)"
+    },
+    {
+        "Accela Fee Code": "No Fee Configured",
+        "FeeId": 170,
+        "Description": "NURSERY CERTIFICATION"
+    },
+    {
+        "Accela Fee Code": "No Fee Configured",
+        "FeeId": 171,
+        "Description": "NURSERY STOCK TAGS"
+    },
+    {
+        "Accela Fee Code": "No Fee Configured",
+        "FeeId": 172,
+        "Description": "VIRUS INDEXING INSPECTION"
+    },
+    {
+        "Accela Fee Code": "No Fee Configured",
+        "FeeId": 173,
+        "Description": "VIRUS INDEXING TAGS"
+    },
+    {
+        "Accela Fee Code": "No Fee Configured",
+        "FeeId": 174,
+        "Description": "TRAPPING TIME (PER HALF HOUR)"
+    },
+    {
+        "Accela Fee Code": "No Fee Configured",
+        "FeeId": 175,
+        "Description": "TRAPPING MILEAGE (PER MILE)"
+    },
+    {
+        "Accela Fee Code": "No Fee Configured",
+        "FeeId": 176,
+        "Description": "NURSERY INSPECTION LATE FEE (OR 18% MAX)"
+    },
+    {
+        "Accela Fee Code": "No Fee Configured",
+        "FeeId": 177,
+        "Description": "VIOLATION"
+    },
+    {
+        "Accela Fee Code": "No Fee Configured",
+        "FeeId": 178,
+        "Description": "INSPECTION TIME (PER HALF HOUR)"
+    },
+    {
+        "Accela Fee Code": "No Fee Configured",
+        "FeeId": 179,
+        "Description": "INSPECTION MILEAGE (PER MILE)"
+    },
+    {
+        "Accela Fee Code": "No Fee Configured",
+        "FeeId": 180,
+        "Description": "VIOLATION"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 181,
+        "Description": "OFF-PREMISES LIQUOR FINGERPRINT FEE"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 182,
+        "Description": "OFF-PREMISES LIQUOR FINGERPRINT FEE"
+    },
+    {
+        "Accela Fee Code": "Old Fee\/ Does not map exactly",
+        "FeeId": 183,
+        "Description": "OFF-PREMISES LIQUOR FINGERPRINT FEE"
+    },
+    {
+        "Accela Fee Code": "No Fee Configured",
+        "FeeId": 184,
+        "Description": "INSPECTION TIME (PER 15 MINUTES)"
+    },
+    {
+        "Accela Fee Code": "No Fee Configured",
+        "FeeId": 185,
+        "Description": "TRAPPING TIME (PER 15 MINUTES)"
+    },
+    {
+        "Accela Fee Code": "No Fee Configured",
+        "FeeId": 186,
+        "Description": "INSPECTION TIME (PER 15 MINUTES)"
+    },
+    {
+        "Accela Fee Code": "SA_LIC",
+        "FeeId": 187,
+        "Description": "FARM SCALES, 0 to 499 LBs"
+    },
+    {
+        "Accela Fee Code": "S2_LIC",
+        "FeeId": 188,
+        "Description": "FARM SCALES, 500 to 1,999 LBs"
+    },
+    {
+        "Accela Fee Code": "S3_LIC",
+        "FeeId": 189,
+        "Description": "FARM SCALES, 2,000 to 7,999 LBs"
+    },
+    {
+        "Accela Fee Code": "S4_LIC",
+        "FeeId": 190,
+        "Description": "FARM SCALES, 8,000 to 60,000 LBs"
+    },
+    {
+        "Accela Fee Code": "SE_LIC",
+        "FeeId": 191,
+        "Description": "FARM SCALES, > 60,000 LBs"
+    },
+    {
+        "Accela Fee Code": "S1_LIC",
+        "FeeId": 192,
+        "Description": "SCALE - 0 TO 499 LBS RENEWAL"
+    },
+    {
+        "Accela Fee Code": "SB_LIC",
+        "FeeId": 193,
+        "Description": "SCALE - 500 TO 1,999 LBS RENEWAL"
+    },
+    {
+        "Accela Fee Code": "S3_LIC",
+        "FeeId": 194,
+        "Description": "SCALE - 2,000 TO 7,999 LBS RENEWAL"
+    },
+    {
+        "Accela Fee Code": "SD_LIC",
+        "FeeId": 195,
+        "Description": "SCALE - 8,000 TO 60,000 LBS RENEWAL"
+    },
+    {
+        "Accela Fee Code": "SE_LIC",
+        "FeeId": 196,
+        "Description": "SCALE - OVER 60,000 LBS RENEWAL"
+    },
+    {
+        "Accela Fee Code": "S1_LATE_REN",
+        "FeeId": 197,
+        "Description": "SCALE - 0 TO 499 LBS LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "SB_LATE_REN",
+        "FeeId": 198,
+        "Description": "SCALE - 500 TO 1,999 LBS LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "S3_LATE_REN",
+        "FeeId": 199,
+        "Description": "SCALE - 2,000 TO 7,999 LBS LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "SD_LATE_REN",
+        "FeeId": 200,
+        "Description": "SCALE - 8,000 TO 60,000 LBS LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "SE_LATE_REN",
+        "FeeId": 201,
+        "Description": "SCALE - OVER 60,000 LBS LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "SA_LATE_REN",
+        "FeeId": 202,
+        "Description": "FARM SCALES, 0 to 499 LBs LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "S2_LATE_REN",
+        "FeeId": 203,
+        "Description": "FARM SCALES, 500 to 1,999 LBs LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "S3_LATE_REN",
+        "FeeId": 204,
+        "Description": "FARM SCALES, 2,000 to 7,999 LBs LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "S4_LATE_REN",
+        "FeeId": 205,
+        "Description": "FARM SCALES, 8,000 to 60,000 LBs LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "SE_LATE_REN",
+        "FeeId": 206,
+        "Description": "FARM SCALES, > 60,000 LBs LATE RENEWAL PENALTY"
+    },
+    {
+        "Accela Fee Code": "BEER_PROC",
+        "FeeId": 207,
+        "Description": "OFF-PREMISES LIQUOR PROCESSING FEE"
+    },
+    {
+        "Accela Fee Code": "WINE_PROC",
+        "FeeId": 208,
+        "Description": "OFF-PREMISES LIQUOR PROCESSING FEE"
+    },
+    {
+        "Accela Fee Code": "BEER_WINE_PR",
+        "FeeId": 209,
+        "Description": "OFF-PREMISES LIQUOR PROCESSING FEE"
+    },
+    {
+        "Accela Fee Code": "BEER_WINE_UP",
+        "FeeId": 210,
+        "Description": "OFF-PREMISES LIQUOR PROCESSING FEE (UPGRADE)"
+    },
+    {
+        "Accela Fee Code": "LOT_TRAD_FEE",
+        "FeeId": 217,
+        "Description": "LOTTERY APPLICATION FEE"
+    },
+    {
+        "Accela Fee Code": "No Fee Configured",
+        "FeeId": 218,
+        "Description": "FANTASY GAMES LOTTERY RENEWAL"
+    },
+    {
+        "Accela Fee Code": "No Fee Configured",
+        "FeeId": 219,
+        "Description": "LOTTERY RENEWAL"
+    },
+    {
+        "Accela Fee Code": "ALT_VAP_RET",
+        "FeeId": 220,
+        "Description": "ALTERNATIVE NICOTINE OR VAPOR PRODUCTS RETAILER"
+    },
+    {
+        "Accela Fee Code": "NURS_APP_FEE",
+        "FeeId": 221,
+        "Description": "NURSERY APPLICATION FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_APP_FEE",
+        "FeeId": 222,
+        "Description": "NURSERY APPLICATION FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_APP_FEE",
+        "FeeId": 223,
+        "Description": "NURSERY APPLICATION FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_APP_FEE",
+        "FeeId": 224,
+        "Description": "NURSERY APPLICATION FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_APP_FEE",
+        "FeeId": 225,
+        "Description": "NURSERY APPLICATION FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_APP_FEE",
+        "FeeId": 226,
+        "Description": "NURSERY APPLICATION FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_APP_FEE",
+        "FeeId": 227,
+        "Description": "NURSERY APPLICATION FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_LATE_FE",
+        "FeeId": 228,
+        "Description": "NURSERY LATE FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_LATE_FE",
+        "FeeId": 229,
+        "Description": "NURSERY LATE FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_LATE_FE",
+        "FeeId": 230,
+        "Description": "NURSERY LATE FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_LATE_FE",
+        "FeeId": 231,
+        "Description": "NURSERY LATE FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_LATE_FE",
+        "FeeId": 232,
+        "Description": "NURSERY LATE FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_LATE_FE",
+        "FeeId": 233,
+        "Description": "NURSERY LATE FEE"
+    },
+    {
+        "Accela Fee Code": "NURS_LATE_FE",
+        "FeeId": 234,
+        "Description": "NURSERY LATE FEE"
+    },
+    {
+        "Accela Fee Code": "\nNURS_5000",
+        "FeeId": 235,
+        "Description": "Nursery:  $5,000 or less gross annual sales"
+    },
+    {
+        "Accela Fee Code": "NURS_75000",
+        "FeeId": 236,
+        "Description": "Nursery:  $5,001 to $75,000 gross annual sales"
+    },
+    {
+        "Accela Fee Code": "\nNURS_150000",
+        "FeeId": 237,
+        "Description": "Nursery:  $75,001 to $150,000 gross annual sales"
+    },
+    {
+        "Accela Fee Code": "NURS_250000",
+        "FeeId": 238,
+        "Description": "Nursery:  $150,001 to $250,000 gross annual sales"
+    },
+    {
+        "Accela Fee Code": "NURS_250000+",
+        "FeeId": 239,
+        "Description": "Nursery:  $250,000 gross annual sales"
+    },
+    {
+        "Accela Fee Code": "NURS_LANDSC",
+        "FeeId": 240,
+        "Description": "LANDSCAPE SERVICE"
+    },
+    {
+        "Accela Fee Code": "NURS_SOD_FAR",
+        "FeeId": 241,
+        "Description": "SOD FARMER"
+    },
+    {
+        "Accela Fee Code": "BEER_FINGER",
+        "FeeId": 242,
+        "Description": "OFF-PREMISES LIQUOR FINGERPRINT FEE"
+    },
+    {
+        "Accela Fee Code": "WINE_FINGER",
+        "FeeId": 243,
+        "Description": "OFF-PREMISES LIQUOR FINGERPRINT FEE"
+    },
+    {
+        "Accela Fee Code": "BE_WI_FINGER",
+        "FeeId": 244,
+        "Description": "OFF-PREMISES LIQUOR FINGERPRINT FEE"
+    },
+    {
+        "Accela Fee Code": "LOT_SWAG_FEE",
+        "FeeId": 245,
+        "Description": "SPORTS WAGERING LOTTERY APPLICATION FEE"
+    },
+    {
+        "Accela Fee Code": "No Fee Configured",
+        "FeeId": 246,
+        "Description": "SPORTS WAGERING LOTTERY RENEWAL"
+    },
+    {
+        "Accela Fee Code": "TOB_PROD_RET",
+        "FeeId": 250,
+        "Description": "TOBACCO PRODUCTS RETAILER"
+    },
+    {
+        "Accela Fee Code": "\nTOB_PROD_REV",
+        "FeeId": 251,
+        "Description": "TOBACCO PRODUCTS RETAILER (v)"
+    },
+    {
+        "Accela Fee Code": "ALT_VAP_RET",
+        "FeeId": 252,
+        "Description": "ALTERNATIVE NICOTINE OR VAPOR PRODUCTS RETAILER"
+    },
+    {
+        "Accela Fee Code": "PA_TEST",
+        "FeeId": 253,
+        "Description": "PA Meter Test\/Cert Fee"
+    },
+    {
+        "Accela Fee Code": "PB_TEST",
+        "FeeId": 254,
+        "Description": "PB Meter Test\/Cert Fee"
+    },
+    {
+        "Accela Fee Code": "PC_TEST",
+        "FeeId": 255,
+        "Description": "PC Meter Test\/Cert Fee"
+    },
+    {
+        "Accela Fee Code": "PD_TEST",
+        "FeeId": 256,
+        "Description": "PD Meter Test\/Cert Fee"
+    },
+    {
+        "Accela Fee Code": "S1_TEST",
+        "FeeId": 257,
+        "Description": "S1 Scale Test\/Cert Fee"
+    },
+    {
+        "Accela Fee Code": "S2_TEST",
+        "FeeId": 258,
+        "Description": "S2 Scale Test\/Cert Fee"
+    },
+    {
+        "Accela Fee Code": "S3_TEST",
+        "FeeId": 259,
+        "Description": "S3 Scale Test\/Cert Fee"
+    },
+    {
+        "Accela Fee Code": "S4_TEST",
+        "FeeId": 260,
+        "Description": "S4 Scale Test\/Cert Fee"
+    },
+    {
+        "Accela Fee Code": "S5_TEST",
+        "FeeId": 261,
+        "Description": "S5 Scale Test\/Cert Fee"
+    },
+    {
+        "Accela Fee Code": "SA_TEST",
+        "FeeId": 262,
+        "Description": "SA Scale Test\/Cert Fee"
+    },
+    {
+        "Accela Fee Code": "SB_TEST",
+        "FeeId": 263,
+        "Description": "SB Scale Test\/Cert Fee"
+    },
+    {
+        "Accela Fee Code": "SC_TEST",
+        "FeeId": 264,
+        "Description": "SC Scale Test\/Cert Fee"
+    },
+    {
+        "Accela Fee Code": "SD_TEST",
+        "FeeId": 265,
+        "Description": "SD Scale Test\/Cert Fee"
+    },
+    {
+        "Accela Fee Code": "SE_TEST",
+        "FeeId": 266,
+        "Description": "SE Scale Test\/Cert Fee"
+    }
+]
